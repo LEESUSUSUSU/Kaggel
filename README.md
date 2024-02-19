@@ -1,4 +1,4 @@
 # Kaggel
 
-1.HMS - Harmful Brain Activity Classification (24.02.06~ )
+1.HMS - Harmful Brain Activity Classification (24.02.16~ )
 
